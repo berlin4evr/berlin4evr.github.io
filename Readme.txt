@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This is simple portfolio page to show-case my skills.
 
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+offten i'll make some changes omn this profile.
